@@ -1,2 +1,1 @@
-# meenuresume
-Meenu Resume
+# meenu.github.io
